@@ -1,4 +1,4 @@
-name = "hesoyam2"
+name = "hesoyamid"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -8,17 +8,20 @@ workers_dev = true
 pattern = "hesoyam.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.hesoyam.us.kg"
+pattern = "hesoyamid.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.hesoyam.us.kg"
+pattern = "support.zoom.us..hesoyamid.hesoyam.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "dl.cvs.freefiremobile.com.hesoyam.us.kg"
+pattern = "quiz.int.vidio.com.hesoyamid.hesoyam.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "dl.cvs.freefiremobile.com.hesoyamid.hesoyam.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "178.128.80.43"
+PROXYIP = "103.186.1.209:2053"
 UUID = "a988be84-b34b-456d-a8b9-d4822415b49d"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
