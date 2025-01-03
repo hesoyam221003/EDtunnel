@@ -1,20 +1,20 @@
-name = "hesoyamid2"
+name = "indo"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "hesoyam.us.kg"
+pattern = "indo.hesoyam.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.hesoyamid2.hesoyam.us.kg"
+pattern = "support.zoom.us.indo.hesoyam.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.hesoyamid2.hesoyam.us.kg"
+pattern = "quiz.int.vidio.com.indo.hesoyam.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "dl.cvs.freefiremobile.com.hesoyamid2.hesoyam.us.kg"
+pattern = "dl.cvs.freefiremobile.com.indo.hesoyam.us.kg"
 custom_domain = true
 
 [vars]
