@@ -5,16 +5,16 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [[routes]]
-pattern = "hesoyam1.us.kg"
+pattern = "hesoyam.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.hesoyam1.us.kg"
+pattern = "support.zoom.us.hesoyam.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.hesoyam1.us.kg"
+pattern = "quiz.int.vidio.com.hesoyam.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "dl.cvs.freefiremobile.com.hesoyam1.us.kg"
+pattern = "dl.cvs.freefiremobile.com.hesoyam.us.kg"
 custom_domain = true
 
 [vars]
